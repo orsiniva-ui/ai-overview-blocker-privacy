@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Overview Blocker Privacy Policy</title>
+<style>
+body{
+    font-family:Arial,sans-serif;
+    max-width:800px;
+    margin:40px auto;
+    padding:20px;
+    line-height:1.6;
+}
+</style>
+</head>
+<body>
+
+<h1>AI Overview Blocker Privacy Policy</h1>
+
+<p>Last updated: July 2026</p>
+
+<p>
+AI Overview Blocker removes Google's AI Overview from Google Search results.
+</p>
+
+<h2>Information Collection</h2>
+
+<p>
+AI Overview Blocker does not collect, store, transmit, or sell any personal information.
+</p>
+
+<h2>Data Storage</h2>
+
+<p>
+The extension stores only one setting using Chrome Storage:
+whether the extension is enabled or disabled.
+This information stays within the user's browser or Chrome account and is never transmitted to the developer.
+</p>
+
+<h2>Third Parties</h2>
+
+<p>
+No user data is shared with third parties.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+Email: YOUR_EMAIL@example.com
+</p>
+
+</body>
+</html>
